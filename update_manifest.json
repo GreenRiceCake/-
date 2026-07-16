@@ -1,0 +1,15 @@
+{
+    "version": "1.2.0",
+    "title": "GTMate v1.2.0 업데이트",
+    "changelog": "- GTMate v1.2.0 개발 버전입니다.\n- 세부 변경 사항은 배포 전에 확정됩니다.",
+    "update_type": "zip",
+    "download_url": "https://www.dropbox.com/scl/fi/f9orm4ghot37cwkzu6875/GTMate_v1.2.0.zip?rlkey=vx26sks6b5xcyzltdfx72wg16&st=bi6ys4x1&dl=1",
+    "min_updater_protocol": 2,
+    "transactional_package": {
+        "type": "zip",
+        "url": "https://www.dropbox.com/scl/fi/f9orm4ghot37cwkzu6875/GTMate_v1.2.0.zip?rlkey=vx26sks6b5xcyzltdfx72wg16&st=bi6ys4x1&dl=1",
+        "size": 332172770,
+        "sha256": "ef4b8dc9d810a5c038f8cccb1b0d9c1310f16aaf3c82978bf4c2c573adf629a3",
+        "package_manifest": "installed_manifest.json"
+    }
+}
